@@ -6,10 +6,10 @@ Comprend a Hot Reload Module.
 ## Usage
 
 Terminal 1
-```bash
+```javscript
 npm run webpack
 ```
 Terminal 2
-```bash
+```javscript
 npm start
 ```
